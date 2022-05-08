@@ -6,6 +6,15 @@ front-end 스터디를 진행하면서 필요한 샘플 및 웹 애플리케이�
 
 JavaScript HTML CSS
 
+## Environment
+
+javascript 를 학습하기 위해 필요한 모듈을 관리하기 위해 npm 을 사용할 예정이다. package 초기화를 통해 default 상태를 설정하고 필요한 모듈은 학습을 진행하면서 추가할 예정이다.  
+
+```sh
+# initial package
+npm init -y 
+```
+
 ## Sample Code
 
 ***Unknown***
